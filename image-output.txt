@@ -1,0 +1,78 @@
+
+
+Which birds prefer which seeds? 
+
+Cardinals AD:
+Chickadees ch
+Doves D E
+Goldfinches A C
+Grosbeaks A D
+House Finches A C
+Jays A:
+Juncos A:
+Nuthatches AFB
+Purple Finches A C
+Siskins B C
+Sparrows A:
+Titmice I; I:
+Towhees A:
+Woodpeckers A D
+
+Sunflower
+
+Striped
+Sunflower
+
+Sunflower
+
+Millet
+White/Red
+
+Milo
+Seed
+
+Nyjer Seed
+(Thistle)
+
+Shelled
+Peanuts
+
+Safflower
+Seed
+
+Corn
+Products
+
+A = Hopper Feeder
+B = Tube Feeder
+C = Nyjer Feeder
+D = Platform Feeder
+E = Ground Feeder
+F = Suet Feeder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

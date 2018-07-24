@@ -33,14 +33,17 @@
             </div>
         </div>
     </div>
+    <script src="bx.js">
+    </script>
 
-
-    <script src="bx.js"></script>
     <script>
-        function refresh(dc, width, height) {
+        var img = new Image();
+        img.src = './flora/corn-seed.jpg';
+        var pattern = dc.createPattern(img, 'no-repeat');
 
-            // PUT YOUR GRAPHICS CODE IN HERE...
-            dc.fillStyle = '#000';
+        function refresh(dc, width, height) {
+            dc.fillStyle = pattern;
+
             dc.beginPath();
             var cx = width / 2;
             var cy = height / 2;
@@ -52,6 +55,7 @@
         }
     </script>
     <script src="birds.js"></script>
+
 </body>
 
 </html>
