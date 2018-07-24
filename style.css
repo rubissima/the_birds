@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.page {
+    max-width: 1000px;
+    max-height: 100vh;
+    margin: 0 auto;
+    background-color: #fff4e6;
+}
+
+.wrapper-top {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: space-between;
+    grid-row-gap: 1em;
+    padding: 1em;
+    max-height: 33vh;
+}
+
+.wrapper-top>div {
+    background-color: #ffd8a8;
+    border-radius: 25px;
+    padding: 1em;
+    color: #d9480f;
+    margin: 0 auto;
+}
+
+.wrapper-bottom {
+    display: grid;
+    grid-template-columns: 25% 66%;
+    justify-content: space-between;
+    grid-row-gap: 1em;
+    padding: 1em;
+    --heightA: ;
+    max-height: 66vw;
+}
