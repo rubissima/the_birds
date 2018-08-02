@@ -1,235 +1,200 @@
 {
-    "data": {
-        "birds": [{
+    "birds": [{
             "cardinal": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 3,
-                    "sunflower hulled": 3,
-                    "millet": 1,
-                    "milo": "",
-                    "nyjer": "",
-                    "peanut": "",
-                    "safflower": 3,
-                    "corn": 1
-                }
-            },
-            "chickadee": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 2,
-                    "sunflower hulled": 2,
-                    "millet": "",
-                    "milo": "",
-                    "nyjer": "",
-                    "peanut": 2,
-                    "safflower": 2,
-                    "corn": ""
-                }
-            },
-            "dove": {
-                "preferences": {
-                    "sunflower black": 2,
-                    "sunflower striped": 1,
-                    "sunflower hulled": 2,
-                    "millet": 3,
-                    "milo": 3,
-                    "nyjer": 1,
-                    "peanut": "",
-                    "safflower": 2,
-                    "corn": 2
-                }
-            },
-            "goldfinch and purple finch": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 2,
-                    "sunflower hulled": 3,
-                    "millet": 1,
-                    "milo": "",
-                    "nyjer": 3,
-                    "peanut": "",
-                    "safflower": "",
-                    "corn": ""
-                }
-            },
-            "grosbeak": {
-                "preferences": {
-                    "sunflower black": 2,
-                    "sunflower striped": 2,
-                    "sunflower hulled": 3,
-                    "millet": "",
-                    "milo": "",
-                    "nyjer": "",
-                    "peanut": "",
-                    "safflower": 1,
-                    "corn": ""
-                }
-            },
-            "house finch": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 2,
-                    "sunflower hulled": 3,
-                    "millet": 2,
-                    "milo": "",
-                    "nyjer": 3,
-                    "peanut": "",
-                    "safflower": 1,
-                    "corn": ""
-                }
-            },
-            "jay": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 3,
-                    "sunflower hulled": 3,
-                    "millet": "",
-                    "milo": 1,
-                    "nyjer": "",
-                    "peanut": 2,
-                    "safflower": 1,
-                    "corn": 2
-                }
-            },
-            "junco": {
-                "preferences": {
-                    "sunflower black": 1,
-                    "sunflower striped": 1,
-                    "sunflower hulled": 1,
-                    "millet": 1,
-                    "milo": "",
-                    "nyjer": 1,
-                    "peanut": "",
-                    "safflower": "",
-                    "corn": 3
-                }
-            },
-            "nuthatch": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 2,
-                    "sunflower hulled": 2,
-                    "millet": "",
-                    "milo": "",
-                    "nyjer": "",
-                    "peanut": 1,
-                    "safflower": 1,
-                    "corn": ""
-                }
-            },
-            "siskin": {
-                "preferences": {
-                    "sunflower black": 1,
-                    "sunflower striped": 1,
-                    "sunflower hulled": 3,
-                    "millet": "",
-                    "milo": "",
-                    "nyjer": 3,
-                    "peanut": "",
-                    "safflower": "",
-                    "corn": 1
-                }
-            },
-            "sparrow": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 3,
-                    "sunflower hulled": 3,
-                    "millet": 3,
-                    "milo": 2,
-                    "nyjer": "",
-                    "peanut": "",
-                    "safflower": 1,
-                    "corn": 2
-                }
-            },
-            "titmouse": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 2,
-                    "sunflower hulled": 2,
-                    "millet": "",
-                    "milo": "",
-                    "nyjer": 1,
-                    "peanut": 2,
-                    "safflower": 1,
-                    "corn": ""
-                }
-            },
-            "towhee": {
-                "preferences": {
-                    "sunflower black": 3,
-                    "sunflower striped": 3,
-                    "sunflower hulled": 3,
-                    "millet": 1,
-                    "milo": "",
-                    "nyjer": "",
-                    "peanut": 1,
-                    "safflower": 1,
-                    "corn": 1
-                }
-            },
-            "woodpecker": {
-                "preferences": {
-                    "sunflower black": 2,
-                    "sunflower striped": 2,
-                    "sunflower hulled": 3,
-                    "millet": "",
-                    "milo": "",
-                    "nyjer": "",
-                    "peanut": 1,
-                    "safflower": 1,
-                    "corn": 1
-                }
-            }
+                "sunflower black": 3,
+                "sunflower striped": 3,
+                "sunflower hulled": 3,
+                "millet": 1,
+                "milo": 0,
+                "nyjer": 0,
+                "peanut": 0,
+                "safflower": 3,
+                "corn": 1
 
-        }],
-        "seeds": [{
-                "title": "Black Sunflower Seeds",
-                "name": "sunflower-black",
-                "img": ""
-            },
-            {
-                "title": "Striped Sunflower Seeds",
-                "name": "sunflower-striped",
-                "img": ""
-            },
-            {
-                "title": "Hulled Sunflower Seeds",
-                "name": "sunflower-hulled",
-                "img": ""
-            },
-            {
-                "title": "Millet Seeds",
-                "name": "millet",
-                "img": ""
-            },
-            {
-                "title": "Milo Seeds",
-                "name": "sorghum",
-                "img": ""
-            },
-            {
-                "title": "Nyjer Seeds",
-                "name": "nyjer",
-                "img": ""
-            },
-            {
-                "title": "Shelled Peanut",
-                "name": "peanut",
-                "img": ""
-            },
-            {
-                "title": "Safflower Seed",
-                "name": "safflower",
-                "img": ""
-            },
-            {
-                "title": "Corn Product",
-                "name": "corn",
-                "img": ""
             }
-        ]
-    }
+        },
+        {
+            "chickadee": {
+                "sunflower black": 3,
+                "sunflower striped": 2,
+                "sunflower hulled": 2,
+                "millet": 0,
+                "milo": 0,
+                "nyjer": 0,
+                "peanut": 2,
+                "safflower": 2,
+                "corn": 0
+
+            }
+        },
+        {
+            "dove": {
+                "sunflower black": 2,
+                "sunflower striped": 1,
+                "sunflower hulled": 2,
+                "millet": 3,
+                "milo": 3,
+                "nyjer": 1,
+                "peanut": 0,
+                "safflower": 2,
+                "corn": 2
+
+            }
+        },
+        {
+            "goldfinch and purple finch": {
+                "sunflower black": 3,
+                "sunflower striped": 2,
+                "sunflower hulled": 3,
+                "millet": 1,
+                "milo": 0,
+                "nyjer": 3,
+                "peanut": 0,
+                "safflower": 0,
+                "corn": 0
+
+            }
+        },
+        {
+            "grosbeak": {
+                "sunflower black": 2,
+                "sunflower striped": 2,
+                "sunflower hulled": 3,
+                "millet": 0,
+                "milo": 0,
+                "nyjer": 0,
+                "peanut": 0,
+                "safflower": 1,
+                "corn": 0
+
+            }
+        },
+        {
+            "house finch": {
+                "sunflower black": 3,
+                "sunflower striped": 2,
+                "sunflower hulled": 3,
+                "millet": 2,
+                "milo": 0,
+                "nyjer": 3,
+                "peanut": 0,
+                "safflower": 1,
+                "corn": 0
+
+            }
+        },
+        {
+            "jay": {
+                "sunflower black": 3,
+                "sunflower striped": 3,
+                "sunflower hulled": 3,
+                "millet": 0,
+                "milo": 1,
+                "nyjer": 0,
+                "peanut": 2,
+                "safflower": 1,
+                "corn": 2
+
+            }
+        },
+        {
+            "junco": {
+                "sunflower black": 1,
+                "sunflower striped": 1,
+                "sunflower hulled": 1,
+                "millet": 1,
+                "milo": 0,
+                "nyjer": 1,
+                "peanut": 0,
+                "safflower": 0,
+                "corn": 3
+
+            }
+        },
+        {
+            "nuthatch": {
+                "sunflower black": 3,
+                "sunflower striped": 2,
+                "sunflower hulled": 2,
+                "millet": 0,
+                "milo": 0,
+                "nyjer": 0,
+                "peanut": 1,
+                "safflower": 1,
+                "corn": 0
+
+            }
+        },
+        {
+            "siskin": {
+                "sunflower black": 1,
+                "sunflower striped": 1,
+                "sunflower hulled": 3,
+                "millet": 0,
+                "milo": 0,
+                "nyjer": 3,
+                "peanut": 0,
+                "safflower": 0,
+                "corn": 1
+
+            }
+        },
+        {
+            "sparrow": {
+                "sunflower black": 3,
+                "sunflower striped": 3,
+                "sunflower hulled": 3,
+                "millet": 3,
+                "milo": 2,
+                "nyjer": 0,
+                "peanut": 0,
+                "safflower": 1,
+                "corn": 2
+
+            }
+        },
+        {
+            "titmouse": {
+                "sunflower black": 3,
+                "sunflower striped": 2,
+                "sunflower hulled": 2,
+                "millet": 0,
+                "milo": 0,
+                "nyjer": 1,
+                "peanut": 2,
+                "safflower": 1,
+                "corn": 0
+
+            }
+        },
+        {
+            "towhee": {
+                "sunflower black": 3,
+                "sunflower striped": 3,
+                "sunflower hulled": 3,
+                "millet": 1,
+                "milo": 0,
+                "nyjer": 0,
+                "peanut": 1,
+                "safflower": 1,
+                "corn": 1
+
+            }
+        },
+        {
+            "woodpecker": {
+                "sunflower black": 2,
+                "sunflower striped": 2,
+                "sunflower hulled": 3,
+                "millet": 0,
+                "milo": 0,
+                "nyjer": 0,
+                "peanut": 1,
+                "safflower": 1,
+                "corn": 1
+
+            }
+        }
+
+    ]
 }

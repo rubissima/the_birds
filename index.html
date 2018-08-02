@@ -6,27 +6,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>D3 Data Vis</title>
-    <script src="https://d3js.org/d3.v5.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
     <div class="page">
-        <div id="seedSection" class="wrapper-top">
-        </div>
-        <div id="feedSection" class="wrapper-bottom">
-            <div id="plant">Plant</div>
-            <div id="feed">
-                <div class="ex">
-                    <canvas class="cframe" id="canv" width="200" height="200">
-            </canvas>
-                </div>
-            </div>
-        </div>
-    </div>
-    <script src="jsonLoader.js"></script>
+        <div class="wrapper">
 
-    <script src="birds.js"></script>
+            <section id="seedSection" class="wrapper-top">
+                <h1>SEEDS</h1>
+            </section>
+            <section id="feedSection" class="wrapper-bottom">
+                <div id="plant">Plant</div>
+                <div id="feed">
+                    <div class="ex">
+
+                    </div>
+                </div>
+            </section>
+            <section id="footer">Made by Ruby in 2018</section>
+        </div>
+
+    </div>
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="js/birds.js"></script>
 </body>
 
 </html>
